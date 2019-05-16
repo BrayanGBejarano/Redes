@@ -1,0 +1,7 @@
+Alejo 108.0
+Brayan 44.0
+Pedro 33.0
+Jose 38.0
+Juan 32.0
+Maria 51.0
+Ana 91.0
